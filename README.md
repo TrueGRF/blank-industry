@@ -1,3 +1,3 @@
-# Empty TrueGRF project
+# Blank TrueGRF template (Industry)
 
-This is a completely empty TrueGRF project.
+This is a completely blank TrueGRF project to design your industry GRFs with.
